@@ -1,0 +1,30 @@
+C:\GIT\T3-YuriTisano\Sprints\SprintDois\SprintDois\bin\Debug\net6.0\SprintDois.exe
+C:\GIT\T3-YuriTisano\Sprints\SprintDois\SprintDois\bin\Debug\net6.0\SprintDois.deps.json
+C:\GIT\T3-YuriTisano\Sprints\SprintDois\SprintDois\bin\Debug\net6.0\SprintDois.runtimeconfig.json
+C:\GIT\T3-YuriTisano\Sprints\SprintDois\SprintDois\bin\Debug\net6.0\SprintDois.dll
+C:\GIT\T3-YuriTisano\Sprints\SprintDois\SprintDois\bin\Debug\net6.0\SprintDois.pdb
+C:\GIT\T3-YuriTisano\Sprints\SprintDois\SprintDois\obj\Debug\net6.0\SprintDois.csproj.AssemblyReference.cache
+C:\GIT\T3-YuriTisano\Sprints\SprintDois\SprintDois\obj\Debug\net6.0\SprintDois.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\T3-YuriTisano\Sprints\SprintDois\SprintDois\obj\Debug\net6.0\SprintDois.AssemblyInfoInputs.cache
+C:\GIT\T3-YuriTisano\Sprints\SprintDois\SprintDois\obj\Debug\net6.0\SprintDois.AssemblyInfo.cs
+C:\GIT\T3-YuriTisano\Sprints\SprintDois\SprintDois\obj\Debug\net6.0\SprintDois.csproj.CoreCompileInputs.cache
+C:\GIT\T3-YuriTisano\Sprints\SprintDois\SprintDois\obj\Debug\net6.0\SprintDois.dll
+C:\GIT\T3-YuriTisano\Sprints\SprintDois\SprintDois\obj\Debug\net6.0\refint\SprintDois.dll
+C:\GIT\T3-YuriTisano\Sprints\SprintDois\SprintDois\obj\Debug\net6.0\SprintDois.pdb
+C:\GIT\T3-YuriTisano\Sprints\SprintDois\SprintDois\obj\Debug\net6.0\SprintDois.genruntimeconfig.cache
+C:\GIT\T3-YuriTisano\Sprints\SprintDois\SprintDois\obj\Debug\net6.0\ref\SprintDois.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 2\SprintDois\bin\Debug\net6.0\SprintDois.exe
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 2\SprintDois\bin\Debug\net6.0\SprintDois.deps.json
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 2\SprintDois\bin\Debug\net6.0\SprintDois.runtimeconfig.json
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 2\SprintDois\bin\Debug\net6.0\SprintDois.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 2\SprintDois\bin\Debug\net6.0\SprintDois.pdb
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 2\SprintDois\obj\Debug\net6.0\SprintDois.csproj.AssemblyReference.cache
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 2\SprintDois\obj\Debug\net6.0\SprintDois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 2\SprintDois\obj\Debug\net6.0\SprintDois.AssemblyInfoInputs.cache
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 2\SprintDois\obj\Debug\net6.0\SprintDois.AssemblyInfo.cs
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 2\SprintDois\obj\Debug\net6.0\SprintDois.csproj.CoreCompileInputs.cache
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 2\SprintDois\obj\Debug\net6.0\SprintDois.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 2\SprintDois\obj\Debug\net6.0\refint\SprintDois.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 2\SprintDois\obj\Debug\net6.0\SprintDois.pdb
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 2\SprintDois\obj\Debug\net6.0\SprintDois.genruntimeconfig.cache
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 2\SprintDois\obj\Debug\net6.0\ref\SprintDois.dll
