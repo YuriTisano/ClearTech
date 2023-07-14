@@ -1,0 +1,250 @@
+C:\Users\ClearTech\Music\APIUm\APIUm\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ClearTech\Music\APIUm\APIUm\bin\Debug\net5.0\appsettings.json
+C:\Users\ClearTech\Music\APIUm\APIUm\bin\Debug\net5.0\APIUm.exe
+C:\Users\ClearTech\Music\APIUm\APIUm\bin\Debug\net5.0\APIUm.deps.json
+C:\Users\ClearTech\Music\APIUm\APIUm\bin\Debug\net5.0\APIUm.runtimeconfig.json
+C:\Users\ClearTech\Music\APIUm\APIUm\bin\Debug\net5.0\APIUm.runtimeconfig.dev.json
+C:\Users\ClearTech\Music\APIUm\APIUm\bin\Debug\net5.0\APIUm.dll
+C:\Users\ClearTech\Music\APIUm\APIUm\bin\Debug\net5.0\APIUm.pdb
+C:\Users\ClearTech\Music\APIUm\APIUm\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ClearTech\Music\APIUm\APIUm\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ClearTech\Music\APIUm\APIUm\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ClearTech\Music\APIUm\APIUm\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ClearTech\Music\APIUm\APIUm\obj\Debug\net5.0\APIUm.csproj.AssemblyReference.cache
+C:\Users\ClearTech\Music\APIUm\APIUm\obj\Debug\net5.0\APIUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClearTech\Music\APIUm\APIUm\obj\Debug\net5.0\APIUm.AssemblyInfoInputs.cache
+C:\Users\ClearTech\Music\APIUm\APIUm\obj\Debug\net5.0\APIUm.AssemblyInfo.cs
+C:\Users\ClearTech\Music\APIUm\APIUm\obj\Debug\net5.0\APIUm.csproj.CoreCompileInputs.cache
+C:\Users\ClearTech\Music\APIUm\APIUm\obj\Debug\net5.0\APIUm.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ClearTech\Music\APIUm\APIUm\obj\Debug\net5.0\APIUm.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ClearTech\Music\APIUm\APIUm\obj\Debug\net5.0\staticwebassets\APIUm.StaticWebAssets.Manifest.cache
+C:\Users\ClearTech\Music\APIUm\APIUm\obj\Debug\net5.0\scopedcss\bundle\APIUm.styles.css
+C:\Users\ClearTech\Music\APIUm\APIUm\obj\Debug\net5.0\APIUm.RazorTargetAssemblyInfo.cache
+C:\Users\ClearTech\Music\APIUm\APIUm\obj\Debug\net5.0\APIUm.csproj.CopyComplete
+C:\Users\ClearTech\Music\APIUm\APIUm\obj\Debug\net5.0\APIUm.dll
+C:\Users\ClearTech\Music\APIUm\APIUm\obj\Debug\net5.0\ref\APIUm.dll
+C:\Users\ClearTech\Music\APIUm\APIUm\obj\Debug\net5.0\APIUm.pdb
+C:\Users\ClearTech\Music\APIUm\APIUm\obj\Debug\net5.0\APIUm.genruntimeconfig.cache
+C:\Users\ClearTech\Music\APIUm\APIUm\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\ClearTech\Music\APIUm\APIUm\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\ClearTech\Music\APIUm\APIUm\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ClearTech\Music\APIUm\APIUm\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\ClearTech\Music\APIUm\APIUm\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\ClearTech\Music\APIUm\APIUm\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\ClearTech\Music\APIUm\APIUm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ClearTech\Music\APIUm\APIUm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ClearTech\Music\APIUm\APIUm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ClearTech\Music\APIUm\APIUm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ClearTech\Music\APIUm\APIUm\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ClearTech\Music\APIUm\APIUm\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\ClearTech\Music\APIUm\APIUm\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\ClearTech\Music\APIUm\APIUm\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\ClearTech\Music\APIUm\APIUm\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ClearTech\Music\APIUm\APIUm\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ClearTech\Music\APIUm\APIUm\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ClearTech\Music\APIUm\APIUm\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ClearTech\Music\APIUm\APIUm\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\ClearTech\Music\APIUm\APIUm\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\ClearTech\Music\APIUm\APIUm\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ClearTech\Music\APIUm\APIUm\bin\Debug\net5.0\APIUm.StaticWebAssets.xml
+C:\Users\ClearTech\Music\APIUm\APIUm\obj\Debug\net5.0\refint\APIUm.dll
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\bin\Debug\net5.0\appsettings.Development.json
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\bin\Debug\net5.0\appsettings.json
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\bin\Debug\net5.0\APIUm.StaticWebAssets.xml
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\bin\Debug\net5.0\APIUm.exe
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\bin\Debug\net5.0\APIUm.deps.json
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\bin\Debug\net5.0\APIUm.runtimeconfig.json
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\bin\Debug\net5.0\APIUm.runtimeconfig.dev.json
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\bin\Debug\net5.0\APIUm.dll
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\bin\Debug\net5.0\APIUm.pdb
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\bin\Debug\net5.0\AutoMapper.dll
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\bin\Debug\net5.0\Google.Protobuf.dll
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\bin\Debug\net5.0\Humanizer.dll
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\bin\Debug\net5.0\MySql.Data.dll
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\bin\Debug\net5.0\ZstdNet.dll
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\obj\Debug\net5.0\APIUm.csproj.AssemblyReference.cache
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\obj\Debug\net5.0\APIUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\obj\Debug\net5.0\APIUm.AssemblyInfoInputs.cache
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\obj\Debug\net5.0\APIUm.AssemblyInfo.cs
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\obj\Debug\net5.0\APIUm.csproj.CoreCompileInputs.cache
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\obj\Debug\net5.0\APIUm.MvcApplicationPartsAssemblyInfo.cs
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\obj\Debug\net5.0\APIUm.MvcApplicationPartsAssemblyInfo.cache
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\obj\Debug\net5.0\scopedcss\bundle\APIUm.styles.css
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\obj\Debug\net5.0\staticwebassets\APIUm.StaticWebAssets.Manifest.cache
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\obj\Debug\net5.0\APIUm.RazorTargetAssemblyInfo.cache
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\obj\Debug\net5.0\APIUm.csproj.CopyComplete
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\obj\Debug\net5.0\APIUm.dll
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\obj\Debug\net5.0\refint\APIUm.dll
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\obj\Debug\net5.0\APIUm.pdb
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\obj\Debug\net5.0\APIUm.genruntimeconfig.cache
+C:\GIT\T3-YuriTisano\Sprints\APIUm\APIUm\obj\Debug\net5.0\ref\APIUm.dll
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\appsettings.Development.json
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\appsettings.json
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\APIUm.StaticWebAssets.xml
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\APIUm.exe
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\APIUm.deps.json
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\APIUm.runtimeconfig.json
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\APIUm.runtimeconfig.dev.json
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\APIUm.dll
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\APIUm.pdb
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\AutoMapper.dll
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\Google.Protobuf.dll
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\Humanizer.dll
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\MySql.Data.dll
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\ZstdNet.dll
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\APIUm.csproj.AssemblyReference.cache
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\APIUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\APIUm.AssemblyInfoInputs.cache
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\APIUm.AssemblyInfo.cs
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\APIUm.csproj.CoreCompileInputs.cache
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\APIUm.MvcApplicationPartsAssemblyInfo.cs
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\APIUm.MvcApplicationPartsAssemblyInfo.cache
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\scopedcss\bundle\APIUm.styles.css
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\staticwebassets\APIUm.StaticWebAssets.Manifest.cache
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\APIUm.RazorTargetAssemblyInfo.cache
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\APIUm.csproj.CopyComplete
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\APIUm.dll
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\refint\APIUm.dll
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\APIUm.pdb
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\APIUm.genruntimeconfig.cache
+C:\GIT\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\ref\APIUm.dll
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\appsettings.Development.json
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\appsettings.json
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\APIUm.StaticWebAssets.xml
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\APIUm.exe
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\APIUm.deps.json
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\APIUm.runtimeconfig.json
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\APIUm.runtimeconfig.dev.json
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\APIUm.dll
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\APIUm.pdb
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\AutoMapper.dll
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\Google.Protobuf.dll
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\Humanizer.dll
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\MySql.Data.dll
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\ZstdNet.dll
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\APIUm.csproj.AssemblyReference.cache
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\APIUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\APIUm.AssemblyInfoInputs.cache
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\APIUm.AssemblyInfo.cs
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\APIUm.csproj.CoreCompileInputs.cache
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\APIUm.MvcApplicationPartsAssemblyInfo.cs
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\APIUm.MvcApplicationPartsAssemblyInfo.cache
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\scopedcss\bundle\APIUm.styles.css
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\staticwebassets\APIUm.StaticWebAssets.Manifest.cache
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\APIUm.RazorTargetAssemblyInfo.cache
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\APIUm.csproj.CopyComplete
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\APIUm.dll
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\refint\APIUm.dll
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\APIUm.pdb
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\APIUm.genruntimeconfig.cache
+C:\T3-YuriTisano\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\ref\APIUm.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\appsettings.json
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\APIUm.StaticWebAssets.xml
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\APIUm.exe
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\APIUm.deps.json
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\APIUm.runtimeconfig.json
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\APIUm.runtimeconfig.dev.json
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\APIUm.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\APIUm.pdb
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\Humanizer.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\APIUm.csproj.AssemblyReference.cache
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\APIUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\APIUm.AssemblyInfoInputs.cache
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\APIUm.AssemblyInfo.cs
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\APIUm.csproj.CoreCompileInputs.cache
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\APIUm.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\APIUm.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\scopedcss\bundle\APIUm.styles.css
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\staticwebassets\APIUm.StaticWebAssets.Manifest.cache
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\APIUm.RazorTargetAssemblyInfo.cache
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\APIUm.csproj.CopyComplete
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\APIUm.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\refint\APIUm.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\APIUm.pdb
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\APIUm.genruntimeconfig.cache
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 5 - API - Categoria\APIUm\obj\Debug\net5.0\ref\APIUm.dll
