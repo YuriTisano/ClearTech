@@ -1,0 +1,45 @@
+C:\Users\ClearTech\Documents\Sprints\Sprint3\SprintTres\SprintTres\bin\Debug\net6.0\SprintTres.exe
+C:\Users\ClearTech\Documents\Sprints\Sprint3\SprintTres\SprintTres\bin\Debug\net6.0\SprintTres.deps.json
+C:\Users\ClearTech\Documents\Sprints\Sprint3\SprintTres\SprintTres\bin\Debug\net6.0\SprintTres.runtimeconfig.json
+C:\Users\ClearTech\Documents\Sprints\Sprint3\SprintTres\SprintTres\bin\Debug\net6.0\SprintTres.dll
+C:\Users\ClearTech\Documents\Sprints\Sprint3\SprintTres\SprintTres\bin\Debug\net6.0\SprintTres.pdb
+C:\Users\ClearTech\Documents\Sprints\Sprint3\SprintTres\SprintTres\obj\Debug\net6.0\SprintTres.csproj.AssemblyReference.cache
+C:\Users\ClearTech\Documents\Sprints\Sprint3\SprintTres\SprintTres\obj\Debug\net6.0\SprintTres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClearTech\Documents\Sprints\Sprint3\SprintTres\SprintTres\obj\Debug\net6.0\SprintTres.AssemblyInfoInputs.cache
+C:\Users\ClearTech\Documents\Sprints\Sprint3\SprintTres\SprintTres\obj\Debug\net6.0\SprintTres.AssemblyInfo.cs
+C:\Users\ClearTech\Documents\Sprints\Sprint3\SprintTres\SprintTres\obj\Debug\net6.0\SprintTres.csproj.CoreCompileInputs.cache
+C:\Users\ClearTech\Documents\Sprints\Sprint3\SprintTres\SprintTres\obj\Debug\net6.0\SprintTres.dll
+C:\Users\ClearTech\Documents\Sprints\Sprint3\SprintTres\SprintTres\obj\Debug\net6.0\refint\SprintTres.dll
+C:\Users\ClearTech\Documents\Sprints\Sprint3\SprintTres\SprintTres\obj\Debug\net6.0\SprintTres.pdb
+C:\Users\ClearTech\Documents\Sprints\Sprint3\SprintTres\SprintTres\obj\Debug\net6.0\SprintTres.genruntimeconfig.cache
+C:\Users\ClearTech\Documents\Sprints\Sprint3\SprintTres\SprintTres\obj\Debug\net6.0\ref\SprintTres.dll
+C:\GIT\T3-YuriTisano\Sprints\SprintTres\SprintTres\bin\Debug\net6.0\SprintTres.exe
+C:\GIT\T3-YuriTisano\Sprints\SprintTres\SprintTres\bin\Debug\net6.0\SprintTres.deps.json
+C:\GIT\T3-YuriTisano\Sprints\SprintTres\SprintTres\bin\Debug\net6.0\SprintTres.runtimeconfig.json
+C:\GIT\T3-YuriTisano\Sprints\SprintTres\SprintTres\bin\Debug\net6.0\SprintTres.dll
+C:\GIT\T3-YuriTisano\Sprints\SprintTres\SprintTres\bin\Debug\net6.0\SprintTres.pdb
+C:\GIT\T3-YuriTisano\Sprints\SprintTres\SprintTres\obj\Debug\net6.0\SprintTres.csproj.AssemblyReference.cache
+C:\GIT\T3-YuriTisano\Sprints\SprintTres\SprintTres\obj\Debug\net6.0\SprintTres.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\T3-YuriTisano\Sprints\SprintTres\SprintTres\obj\Debug\net6.0\SprintTres.AssemblyInfoInputs.cache
+C:\GIT\T3-YuriTisano\Sprints\SprintTres\SprintTres\obj\Debug\net6.0\SprintTres.AssemblyInfo.cs
+C:\GIT\T3-YuriTisano\Sprints\SprintTres\SprintTres\obj\Debug\net6.0\SprintTres.csproj.CoreCompileInputs.cache
+C:\GIT\T3-YuriTisano\Sprints\SprintTres\SprintTres\obj\Debug\net6.0\SprintTres.dll
+C:\GIT\T3-YuriTisano\Sprints\SprintTres\SprintTres\obj\Debug\net6.0\refint\SprintTres.dll
+C:\GIT\T3-YuriTisano\Sprints\SprintTres\SprintTres\obj\Debug\net6.0\SprintTres.pdb
+C:\GIT\T3-YuriTisano\Sprints\SprintTres\SprintTres\obj\Debug\net6.0\SprintTres.genruntimeconfig.cache
+C:\GIT\T3-YuriTisano\Sprints\SprintTres\SprintTres\obj\Debug\net6.0\ref\SprintTres.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 3\SprintTres\bin\Debug\net6.0\SprintTres.exe
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 3\SprintTres\bin\Debug\net6.0\SprintTres.deps.json
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 3\SprintTres\bin\Debug\net6.0\SprintTres.runtimeconfig.json
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 3\SprintTres\bin\Debug\net6.0\SprintTres.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 3\SprintTres\bin\Debug\net6.0\SprintTres.pdb
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 3\SprintTres\obj\Debug\net6.0\SprintTres.csproj.AssemblyReference.cache
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 3\SprintTres\obj\Debug\net6.0\SprintTres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 3\SprintTres\obj\Debug\net6.0\SprintTres.AssemblyInfoInputs.cache
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 3\SprintTres\obj\Debug\net6.0\SprintTres.AssemblyInfo.cs
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 3\SprintTres\obj\Debug\net6.0\SprintTres.csproj.CoreCompileInputs.cache
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 3\SprintTres\obj\Debug\net6.0\SprintTres.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 3\SprintTres\obj\Debug\net6.0\refint\SprintTres.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 3\SprintTres\obj\Debug\net6.0\SprintTres.pdb
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 3\SprintTres\obj\Debug\net6.0\SprintTres.genruntimeconfig.cache
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 3\SprintTres\obj\Debug\net6.0\ref\SprintTres.dll
