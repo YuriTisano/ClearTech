@@ -1,0 +1,45 @@
+C:\Users\ClearTech\Documents\SprintQuatro\SprintQuatro\bin\Debug\net6.0\SprintQuatro.exe
+C:\Users\ClearTech\Documents\SprintQuatro\SprintQuatro\bin\Debug\net6.0\SprintQuatro.deps.json
+C:\Users\ClearTech\Documents\SprintQuatro\SprintQuatro\bin\Debug\net6.0\SprintQuatro.runtimeconfig.json
+C:\Users\ClearTech\Documents\SprintQuatro\SprintQuatro\bin\Debug\net6.0\SprintQuatro.dll
+C:\Users\ClearTech\Documents\SprintQuatro\SprintQuatro\bin\Debug\net6.0\SprintQuatro.pdb
+C:\Users\ClearTech\Documents\SprintQuatro\SprintQuatro\obj\Debug\net6.0\SprintQuatro.csproj.AssemblyReference.cache
+C:\Users\ClearTech\Documents\SprintQuatro\SprintQuatro\obj\Debug\net6.0\SprintQuatro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClearTech\Documents\SprintQuatro\SprintQuatro\obj\Debug\net6.0\SprintQuatro.AssemblyInfoInputs.cache
+C:\Users\ClearTech\Documents\SprintQuatro\SprintQuatro\obj\Debug\net6.0\SprintQuatro.AssemblyInfo.cs
+C:\Users\ClearTech\Documents\SprintQuatro\SprintQuatro\obj\Debug\net6.0\SprintQuatro.csproj.CoreCompileInputs.cache
+C:\Users\ClearTech\Documents\SprintQuatro\SprintQuatro\obj\Debug\net6.0\SprintQuatro.dll
+C:\Users\ClearTech\Documents\SprintQuatro\SprintQuatro\obj\Debug\net6.0\refint\SprintQuatro.dll
+C:\Users\ClearTech\Documents\SprintQuatro\SprintQuatro\obj\Debug\net6.0\SprintQuatro.pdb
+C:\Users\ClearTech\Documents\SprintQuatro\SprintQuatro\obj\Debug\net6.0\SprintQuatro.genruntimeconfig.cache
+C:\Users\ClearTech\Documents\SprintQuatro\SprintQuatro\obj\Debug\net6.0\ref\SprintQuatro.dll
+C:\GIT\T3-YuriTisano\Sprints\SprintQuatro\SprintQuatro\bin\Debug\net6.0\SprintQuatro.exe
+C:\GIT\T3-YuriTisano\Sprints\SprintQuatro\SprintQuatro\bin\Debug\net6.0\SprintQuatro.deps.json
+C:\GIT\T3-YuriTisano\Sprints\SprintQuatro\SprintQuatro\bin\Debug\net6.0\SprintQuatro.runtimeconfig.json
+C:\GIT\T3-YuriTisano\Sprints\SprintQuatro\SprintQuatro\bin\Debug\net6.0\SprintQuatro.dll
+C:\GIT\T3-YuriTisano\Sprints\SprintQuatro\SprintQuatro\bin\Debug\net6.0\SprintQuatro.pdb
+C:\GIT\T3-YuriTisano\Sprints\SprintQuatro\SprintQuatro\obj\Debug\net6.0\SprintQuatro.csproj.AssemblyReference.cache
+C:\GIT\T3-YuriTisano\Sprints\SprintQuatro\SprintQuatro\obj\Debug\net6.0\SprintQuatro.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\T3-YuriTisano\Sprints\SprintQuatro\SprintQuatro\obj\Debug\net6.0\SprintQuatro.AssemblyInfoInputs.cache
+C:\GIT\T3-YuriTisano\Sprints\SprintQuatro\SprintQuatro\obj\Debug\net6.0\SprintQuatro.AssemblyInfo.cs
+C:\GIT\T3-YuriTisano\Sprints\SprintQuatro\SprintQuatro\obj\Debug\net6.0\SprintQuatro.csproj.CoreCompileInputs.cache
+C:\GIT\T3-YuriTisano\Sprints\SprintQuatro\SprintQuatro\obj\Debug\net6.0\SprintQuatro.dll
+C:\GIT\T3-YuriTisano\Sprints\SprintQuatro\SprintQuatro\obj\Debug\net6.0\refint\SprintQuatro.dll
+C:\GIT\T3-YuriTisano\Sprints\SprintQuatro\SprintQuatro\obj\Debug\net6.0\SprintQuatro.pdb
+C:\GIT\T3-YuriTisano\Sprints\SprintQuatro\SprintQuatro\obj\Debug\net6.0\SprintQuatro.genruntimeconfig.cache
+C:\GIT\T3-YuriTisano\Sprints\SprintQuatro\SprintQuatro\obj\Debug\net6.0\ref\SprintQuatro.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 4\SprintQuatro\bin\Debug\net6.0\SprintQuatro.exe
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 4\SprintQuatro\bin\Debug\net6.0\SprintQuatro.deps.json
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 4\SprintQuatro\bin\Debug\net6.0\SprintQuatro.runtimeconfig.json
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 4\SprintQuatro\bin\Debug\net6.0\SprintQuatro.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 4\SprintQuatro\bin\Debug\net6.0\SprintQuatro.pdb
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 4\SprintQuatro\obj\Debug\net6.0\SprintQuatro.csproj.AssemblyReference.cache
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 4\SprintQuatro\obj\Debug\net6.0\SprintQuatro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 4\SprintQuatro\obj\Debug\net6.0\SprintQuatro.AssemblyInfoInputs.cache
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 4\SprintQuatro\obj\Debug\net6.0\SprintQuatro.AssemblyInfo.cs
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 4\SprintQuatro\obj\Debug\net6.0\SprintQuatro.csproj.CoreCompileInputs.cache
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 4\SprintQuatro\obj\Debug\net6.0\SprintQuatro.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 4\SprintQuatro\obj\Debug\net6.0\refint\SprintQuatro.dll
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 4\SprintQuatro\obj\Debug\net6.0\SprintQuatro.pdb
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 4\SprintQuatro\obj\Debug\net6.0\SprintQuatro.genruntimeconfig.cache
+C:\Users\yuri.tisano\Downloads\Sprints\Sprint 4\SprintQuatro\obj\Debug\net6.0\ref\SprintQuatro.dll
